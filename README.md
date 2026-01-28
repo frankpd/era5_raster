@@ -1,8 +1,11 @@
-# Extract ERA5 Climate Data from Raster at Specific Points
+# Extract ERA5 Climate Data from Raster
 
 ERA-5 Raster Extraction
+
 Frank Donnelly, Head of GIS & Data Services
+
 Brown University Library
+
 Dec 16, 2025 / revised Jan 21, 2026
 
 https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels-monthly-means?tab=overview
