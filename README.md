@@ -31,3 +31,5 @@ input file.
 8. Points that fall outside the raster are assigned null values
 9. Points with an observation date outside the time frame will have
 values recorded, but matching date value will be null
+
+<img width="1149" height="705" alt="era5_gis" src="https://github.com/user-attachments/assets/317c17c7-e7ef-4727-a2f2-da38b390762e" />
