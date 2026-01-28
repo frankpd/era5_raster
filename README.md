@@ -30,5 +30,4 @@ input file.
 7. Point observation date is stored as YYYY-MM-DD or DD-MM-YYYY  
 8. Points that fall outside the raster are assigned null values
 9. Points with an observation date outside the time frame will have
-values recorded, but matching date value will be null   
-"""
+values recorded, but matching date value will be null
